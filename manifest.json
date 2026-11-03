@@ -9,14 +9,14 @@
       },
       {
         "name": "icu",
-        "version": "78.3",
+        "version": "79.1",
         "source": "https://icu.unicode.org/home",
         "licence": "https://github.com/unicode-org/icu/blob/main/LICENSE",
         "spdx_license": "ICU"
       },
       {
         "name": "libiconv",
-        "version": "1.19",
+        "version": "1.19.1",
         "source": "https://www.gnu.org/software/libiconv/",
         "licence": "https://www.gnu.org/licenses/lgpl-2.1.html",
         "spdx_license": "LGPL-2.1-or-later"
@@ -30,7 +30,7 @@
       },
       {
         "name": "libxml2",
-        "version": "2.15.3",
+        "version": "2.15.4",
         "source": "https://gitlab.gnome.org/GNOME/libxml2/",
         "licence": "https://gitlab.gnome.org/GNOME/libxml2/-/blob/master/Copyright?ref_type=heads",
         "spdx_license": "MIT"
@@ -51,7 +51,7 @@
       },
       {
         "name": "openssl",
-        "version": "3.5.8",
+        "version": "3.5.9",
         "source": "https://openssl.org/",
         "licence": "https://www.openssl.org/source/apache-license-2.0.txt",
         "spdx_license": "Apache-2.0"
