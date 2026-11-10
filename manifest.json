@@ -44,7 +44,7 @@
       },
       {
         "name": "lz4",
-        "version": "1.11.0",
+        "version": "1.11.1",
         "source": "https://lz4.org/",
         "licence": "https://github.com/lz4/lz4/blob/dev/LICENSE",
         "spdx_license": "BSD-2-Clause"
